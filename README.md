@@ -14,6 +14,3 @@ Run the application:
 python app.py
 
 Access the chat interface at http://localhost:5000.
-
-Contributors
-@Sohrowardi
