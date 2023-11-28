@@ -2,6 +2,11 @@
 
 A lightweight chat application built with Flask and Flask-SocketIO for real-time communication.
 
+# Install the required packages:
+
+pip install Flask Flask-SocketIO
+
+
 ## Usage
 
 1. **Clone the repository:**
