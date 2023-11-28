@@ -6,7 +6,6 @@ A lightweight chat application built with Flask and Flask-SocketIO for real-time
 
 pip install Flask Flask-SocketIO
 
-
 ## Usage
 
 1. **Clone the repository:**
@@ -18,4 +17,6 @@ pip install Flask Flask-SocketIO
 Run the application:
 python app.py
 
-Access the chat interface at http://localhost:5000.
+Access the chat interface at http://localhost Ubuntu Logo
+Apache2 Default Page
+It:5000.
