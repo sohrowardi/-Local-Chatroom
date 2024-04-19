@@ -6,11 +6,11 @@ A lightweight chat application built with Flask and Flask-SocketIO for real-time
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 
-```bash
+```test
 pip install Flask Flask-SocketIO
 ```
 
-##Usage
+## Usage
 1. Clone the repository:
 ```bash
 git clone https://github.com/sohrowardi/Local-Chatroom.git
@@ -26,7 +26,7 @@ python app.py
 3.Access the chat interface at http://localhost:5000.
 
 
-###File Structure
+### File Structure
 ```bash
 Local-Chatroom
     ├── app.py
@@ -34,6 +34,6 @@ Local-Chatroom
     └── templates
         └── index.html
 ```
-###How It Works
+### How It Works
 app.py: This file contains the Flask application setup, routes, and SocketIO events for handling messages.
 index.html: This file represents the frontend of the chat application, allowing users to send and receive messages in real-time.
