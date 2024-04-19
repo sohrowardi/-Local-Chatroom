@@ -8,6 +8,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 
 ```bash
 pip install Flask Flask-SocketIO
+```
 
 ##Usage
 1. Clone the repository:
